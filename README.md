@@ -1,2 +1,3 @@
 # hello-nick
-github for hell-nick
+## Nick JavaScript Class
+github for hell-nick #02
